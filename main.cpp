@@ -1,3 +1,7 @@
+/// FCAI – OOP – 2022 - Assignment 3
+/// Program Name: Text words calculator.cpp
+/// Author and ID: Yousef Alaa Rabea 20210476
+
 #include <bits/stdc++.h>
 using namespace std;
 
